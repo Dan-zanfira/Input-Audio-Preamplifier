@@ -1,0 +1,300 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jan-23-2026 at 21:26:26 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PCB_ZANFIRA_SCHEMATIC';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16493@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16493@analog.\c.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16493@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_ELECT_0_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16905@PCB_ZANFIRA_SCHEMATIC.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16905@pcb_zanfira_schematic.\c_elect_0.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16905@pcb_zanfira_schematic.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_CAPC2008X126N_0805_1N':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17283@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17283@analog.\c.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17283@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16719@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16719@analog.\c.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16719@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16477@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16477@analog.\c.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16477@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_ELECT_0_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16885@PCB_ZANFIRA_SCHEMATIC.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16885@pcb_zanfira_schematic.\c_elect_0.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16885@pcb_zanfira_schematic.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_CAPC2008X126N_0805_1N':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17225@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17225@analog.\c.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17225@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_CAPC2008X126N_0805_2.2N':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17241@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17241@analog.\c.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17241@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17459@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17459@connector.\con2.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17459@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17475@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17475@connector.\con2.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17475@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_TS53YL_50K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16689@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16689@breakout.\pot.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16689@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'BC846B_TO236AB_BC846B':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16603@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16603@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16603@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'BC846B_TO236AB_BC846B':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16561@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16561@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16561@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES2012X50N_0805_47K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16957@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16957@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16957@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES2012X50N_0805_510K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17101@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17101@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17101@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES2012X50N_0805_1':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16629@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16629@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16629@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_RES2012X50N_0805_220K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16457@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16457@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16457@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16977@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16977@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16977@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16433@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16433@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16433@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16997@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16997@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16997@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES2012X50N_0805_330K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16755@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16755@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16755@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16775@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16775@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16775@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_RES2012X50N_0805_220K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17123@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17123@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17123@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17145@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17145@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17145@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS16735@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins16735@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins16735@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES2012X50N_0805_68K':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS17079@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins17079@analog.\r.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins17079@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'CON1_TP100_CON1':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS18112@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins18112@connector.\con1.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins18112@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'CON1_TP100_CON1':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS18185@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins18185@connector.\con1.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins18185@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'CON1_TP100_CON1':;
+
+SECTION_NUMBER 1
+ '@PCB_ZANFIRA_SCHEMATIC.SCHEMATIC1(SCH_1):INS18212@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@pcb_zanfira_schematic.schematic1(sch_1):ins18212@connector.\con1.normal\(chips)',
+ P_PATH='@pcb_zanfira_schematic.schematic1(sch_1):page_ins18212@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
